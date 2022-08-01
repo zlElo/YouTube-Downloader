@@ -1,0 +1,21 @@
+You can use the YT-Downloader under Linux too! If you already Python3 installed you can run the program with this command:
+
+
+**example for Ubuntu:**
+
+python3 yt-downloader.py
+
+
+If you havent Python3 installed, you can do it with this commands:
+
+For Ubuntu 16.10 or newer:
+sudo apt-get install python3
+
+For Red Hat:
+sudo yum install python3
+
+For SUSE:
+sudo zypper install python3
+
+
+Let's download YouTube Videos in the highest Quality!
