@@ -1,7 +1,11 @@
 from pytube import YouTube
 from pytube.cli import on_progress 
 
-print('YT-Downloader')
+print(""" 
+( \/ )(_  _)___(   \  /  \( \/\/ )( \( )(  )  /  \ (  ) (   \(  _)(  ,) 
+ \  /   )( (___)) ) )( () )\    /  )  (  )(__( () )/__\  ) ) )) _) )  \ 
+(__/   (__)    (___/  \__/  \/\/  (_)\_)(____)\__/(_)(_)(___/(___)(_)\_)
+""")
 print('')
 print('---------------------------------------------------------------------------------')
 print('You can Download every YT-Video what you want in the highest resoultion!')
@@ -9,10 +13,6 @@ print('Paste the YouTube Link with STRG + V in this window and you download will
 print('You can see how much time is left with the progress bar')
 print('---------------------------------------------------------------------------------')
 print('')
-
-items = list(range(0, 57))
-l = len(items)
-
 
 #link question
 linkquestion = input("Enter the link:  ")
@@ -29,6 +29,7 @@ print("Title: ",yt.title)
 print("Creator: ",yt.author)
 print("Views: ",yt.views)
 print('---------------------------------------------------------------------------------')
+print('')
 
 #Getting highest res.
 ys = yt.streams.get_highest_resolution()
