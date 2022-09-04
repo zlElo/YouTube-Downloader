@@ -35,7 +35,7 @@ $ pip install pytube
 
 Pictures:
 
-![Terminal Picture](https://zlelo.github.io/pictures/YouTube-Downloader-PIC.png)
+![Terminal Picture](https://raw.githubusercontent.com/zlElo/YouTube-Downloader/main/YouTube-Downloader/Pictures/Picture_1.png)
 
 -------------------------------------------------------------------------------------------------
 
