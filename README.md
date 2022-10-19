@@ -1,6 +1,6 @@
 # YouTube-Downloader
 YouTube Downloader is a terminal based YouTube Video Downloader!
-You can download the videos in the highest resolution. 
+You can download the videos in maximal HD Quality.
 
 Info: You can download the .py or the .exe file in the repository.
 
